@@ -256,7 +256,6 @@ function minimax(game, depth, alpha, beta, isMaximizingPlayer, sum, color) {
   children.sort(function (a, b) {
     return 0.5 - Math.random();
   });
-
   var currMove;
   // Maximum depth exceeded or node is a terminal node (no children)
   if (depth === 0 || children.length === 0) {
