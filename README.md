@@ -1,3 +1,5 @@
+## [Live](https://m-ayan-k.github.io/Chess/)
+
 # About
 
 Chess-ai is a simple chess **AI** in JavaScript.
