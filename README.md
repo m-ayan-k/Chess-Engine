@@ -1,4 +1,4 @@
-## [Live](https://m-ayan-k.github.io/Chess/)
+## [Live](https://m-ayan-k.github.io/Chess-Engine/)
 
 # About
 
